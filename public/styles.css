@@ -1,0 +1,34 @@
+.artnoveau{
+    font-family: 'Amarante', cursive;
+    color: black;
+    padding: 30px;
+    text-align: center;
+}
+.alfonse{
+    display: flex;
+    justify-content: center;
+    width: 30vw;
+}
+.home-btn{
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+.btn-margin{
+    margin: 20px;
+}
+.about{
+    background-image: url("https://www.teahub.io/photos/full/172-1728704_art-nouveau.jpg");
+    background-size: cover;
+    
+}
+.about-text{
+    background-color: linen;
+    justify-content: center;
+    padding: 20px 40px;
+}
+.cards{
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-around;
+}
